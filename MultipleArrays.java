@@ -102,5 +102,6 @@ public class MultipleArrays {
     }
 
 // array can be primitive, object, or any data.
+
 }
 
